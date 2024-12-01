@@ -1,0 +1,6 @@
+{
+	"name": "shir-telecom",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

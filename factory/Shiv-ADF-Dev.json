@@ -1,0 +1,9 @@
+{
+	"name": "Shiv-ADF-Dev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fcded670-badb-4d0b-9ba1-5f01e5137149",
+		"tenantId": "8fa90689-b231-4ee0-af7f-11f572895109"
+	}
+}
