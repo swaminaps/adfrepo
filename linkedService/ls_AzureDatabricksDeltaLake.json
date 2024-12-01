@@ -1,0 +1,12 @@
+{
+	"name": "ls_AzureDatabricksDeltaLake",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricksDeltaLake",
+		"typeProperties": {
+			"domain": "https://adb-2605308605996342.2.azuredatabricks.net",
+			"clusterId": "1130-055038-ceai79f5",
+			"workspaceResourceId": "/subscriptions/0a96756d-6380-47d8-b2d7-d0ab5b53515e/resourceGroups/Shiv-Dev-Env/providers/Microsoft.Databricks/workspaces/Shiv-AzureDatabricks-Dev"
+		}
+	}
+}
